@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: fifthtry.github.io/button
+-- fastn.package: fastn-community.github.io/button
 
 
 -- fastn.dependency: fastn-community.github.io/site-doc
@@ -9,7 +9,7 @@
 
 -- fastn.auto-import: fastn-community.github.io/site-doc
 -- fastn.auto-import: fastn-community.github.io/code-block as cb
--- fastn.auto-import: fifthtry.github.io/button/assets
+-- fastn.auto-import: fastn-community.github.io/button/assets
 -- fastn.auto-import: fastn
 
 

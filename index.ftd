@@ -1,10 +1,10 @@
 
 -- site-doc.doc-home: Button
-license-url: https://github.com/FifthTry/button/blob/main/LICENSE
-current-package: fifthtry.github.io/button
+license-url: https://github.com/fastn-community/button/blob/main/LICENSE
+current-package: fastn-community.github.io/button
 show-tabs: false
 site-title: Button
-github-url: https://github.com/FifthTry/button
+github-url: https://github.com/fastn-community/button
 
 -- site-doc.output:
 colors: $ftd.default-colors
@@ -37,7 +37,7 @@ below into `FASTN.ftd` file:
 -- cb.code:
 lang: ftd
 
-\-- fastn.dependency: fifthtry.github.io/button
+\-- fastn.dependency: fastn-community.github.io/button
 
 -- site-doc.markdown:
 
@@ -46,7 +46,7 @@ Now import `button` inside your `.ftd` file
 -- cb.code:
 lang: ftd
 
-\-- import: fifthtry.github.io/button
+\-- import: fastn-community.github.io/button
 
 -- site-doc.markdown:
 
