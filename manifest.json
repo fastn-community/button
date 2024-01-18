@@ -1,0 +1,61 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "3E462B892B739C5D460BCA03DEE185AA201A0037525846E473B7965B4CD634E5",
+      "size": 665
+    },
+    "LICENSE": {
+      "name": "LICENSE",
+      "checksum": "5B8B83357C092AC57F28508D18CAB65E4965AAA3BA61226DE038719E022638C1",
+      "size": 1516
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "5124501EE2A8F828EEA80CA898818770278DEC5CCAB41B5E6E534A0B809F70FE",
+      "size": 326
+    },
+    "assets/images/button-icon-left.png": {
+      "name": "assets/images/button-icon-left.png",
+      "checksum": "CBBCEE129410432E8E53B1594A0BCE2B9391B4F56DA27699093B1895FF964E1F",
+      "size": 1638
+    },
+    "assets/images/button-icon-right.png": {
+      "name": "assets/images/button-icon-right.png",
+      "checksum": "2C7AF86245E65C8A112579180976D38193A75C204BF97C231D6C9425FFCC1EC4",
+      "size": 1629
+    },
+    "assets/images/button.png": {
+      "name": "assets/images/button.png",
+      "checksum": "612BA897F896330F29CF41802EEEE3071EC19926BC4909EA9498CBCAF02CC490",
+      "size": 1245
+    },
+    "disabled.ftd": {
+      "name": "disabled.ftd",
+      "checksum": "59FBC7D7573F7F94E4165029D047FF5E2F12D16F2D2B8ED501F852DC1D9F73D7",
+      "size": 2457
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "FDEF799738D0BFDDF9C1E8E42E38C5A2C65079EB91FFB2A6761FCEB433402B80",
+      "size": 16348
+    },
+    "primary.ftd": {
+      "name": "primary.ftd",
+      "checksum": "10AB6A44F9BC4DF9CD4F383F4A2F3472EEB356D262E5E21D08B51FD34BD130A5",
+      "size": 3603
+    },
+    "secondary.ftd": {
+      "name": "secondary.ftd",
+      "checksum": "F480CCACCED4C3B87A8435DD006A3029F78F4177B880C40163BFEA87F3B8997E",
+      "size": 3635
+    },
+    "tertiary.ftd": {
+      "name": "tertiary.ftd",
+      "checksum": "D794FC230D982756C9F33DC1A82D744B259C08876A4AA7D45F888B577B0FFB58",
+      "size": 3618
+    }
+  },
+  "zip_url": "https://codeload.github.com/fastn-community/button/zip/refs/heads/main",
+  "checksum": "E8A1CB12852B9A89EDDA9F3C882AAC47DA86CD29594333E78E080FD0B1E03DD2"
+}
